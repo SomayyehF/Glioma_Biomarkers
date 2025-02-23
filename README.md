@@ -1,4 +1,3 @@
-Glioma_Biomarkers
 This repository contains the code base for our work on glioma biomarkers derived from multi-parametric MRI. The code presented here is part of an ongoing research project.
 
 Overview

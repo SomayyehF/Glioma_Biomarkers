@@ -5,18 +5,6 @@ Overview
 The repository houses three key Python modules: TAFE.py, CMD.py, and DSF.py.
 Together, these modules form the backbone of our framework for glioma biomarker analysis.
 
-Installation
-Clone the repository:
-
-git clone https://github.com/yourusername/Glioma_Biomarkers.git
-Navigate into the repository folder:
-
-cd Glioma_Biomarkers
-Running the Code
-Execute the desired module from the command line. For example, to run the command-line interface:
-
-python TAFE.py
-
 Contributing
 Contributions, suggestions, and improvements are welcome. Feel free to open an issue or submit a pull request to enhance the project.
 

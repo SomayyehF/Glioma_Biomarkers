@@ -1,7 +1,5 @@
-This repository contains the code base for our work on glioma biomarkers derived from multi-parametric MRI. The code presented here is part of an ongoing research project.
-
-The repository houses three key Python modules: TAFE.py, CMD.py, and DSF.py.
-Together, these modules form the backbone of our framework for glioma biomarker analysis.
+This repository contains the code base for our work on glioma biomarkers derived from multi-parametric MRI. The code presented here is part of an ongoing research project. The repository houses three key Python modules: TAFE.py, CMD.py, and DSF.py.
+Together, these modules form the backbone of our foundation framework for glioma biomarker analysis.
 
 Contributing
 
